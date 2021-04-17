@@ -1,0 +1,43 @@
+{
+    "name": "controldone",
+    "version": "1.2.1",
+    "description": "Action-centric multi-transport controllers",
+    "main": "index.js",
+    "scripts": {
+        "eslint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/controldone.git"
+    },
+    "keywords": [
+        "controller",
+        "express",
+        "WebSocket",
+        "socket-io",
+        "wamp"
+    ],
+    "dependencies": {
+        "http-status-node": "^0.2.0",
+        "lodash": "^4.17.10 "
+    },
+    "author": {
+        "name": "Melvyn kim"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/melvynkim/controldone/issues"
+    },
+    "homepage": "https://github.com/melvynkim/controldone",
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "cross-env": "^7.0.3",
+        "eslint": "7.24.0",
+        "eslint-config-airbnb-base": "14.2.1",
+        "eslint-plugin-import": "2.22.1",
+        "eslint-plugin-mocha": "8.1.0",
+        "istanbul": "^2.0.3",
+        "mocha": "^8.3.2"
+    }
+}
