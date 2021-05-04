@@ -1,6 +1,6 @@
 {
     "name": "controldone",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "Action-centric multi-transport controllers",
     "main": "index.js",
     "scripts": {
@@ -18,7 +18,7 @@
         "wamp"
     ],
     "dependencies": {
-        "http-status-node": "^0.1.0",
+        "http-status-node": "0.1.0",
         "lodash": "^4.17.10 "
     },
     "author": {
