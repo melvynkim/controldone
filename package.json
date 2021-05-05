@@ -18,7 +18,7 @@
         "wamp"
     ],
     "dependencies": {
-        "http-status-node": "0.1.0",
+        "http-status-node": "0.0.1",
         "lodash": "^4.17.10 "
     },
     "author": {
