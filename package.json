@@ -1,6 +1,6 @@
 {
     "name": "controldone",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "Action-centric multi-transport controllers",
     "main": "index.js",
     "scripts": {
